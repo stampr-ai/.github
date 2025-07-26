@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://stampr-ai.com/logo.png" alt="stampr_ai logo" width="120"/>
+  <img src="https://www.stampr-ai.com/images/stampr.png" alt="stampr_ai logo" width="120"/>
 </p>
 
 <h1 align="center">stampr_ai</h1>
