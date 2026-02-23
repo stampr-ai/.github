@@ -23,7 +23,7 @@
 - **Verifying the identity of any model accessible over API**
 
 
-Our **web tracker** visualises the fingerprint evolution, and you can use our **Python package** to ensure the reprodusibility of your results (assertion mode) and/or track changes to the models you're developing, deploying, or integrating into your applications.
+Our [**web tracker**](https://www.stampr-ai.com/) visualises the fingerprint evolution, and you can use our **Python package** to ensure the reprodusibility of your results (assertion mode) and/or track changes to the models you're developing, deploying, or integrating into your applications.
 
 ```bash
 pip install stampr-ai --pre
