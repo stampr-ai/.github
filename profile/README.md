@@ -5,7 +5,7 @@
 <h1 align="center">stampr_ai</h1>
 <h3 align="center">Live AI Model Fingerprint Tracking</h3>
 <p align="center">
-  <code>v0.1.0-alpha</code> — Features may be incomplete or subject to change
+  <code>v0.9.0a1</code> - Features may be incomplete or subject to change
 </p>
 
 <p align="center">
