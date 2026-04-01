@@ -15,7 +15,7 @@
 
 ---
 
-## 🚀 Overview
+## Overview
 
 `stampr_ai` is a lightweight system for fingerprinting AI models in a blackbox setting. It enables:
 - **Extracting unique behavioural fingerprints**
